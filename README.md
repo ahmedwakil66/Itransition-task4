@@ -1,7 +1,5 @@
 # NodeJS-MySQL-CRUD
 
-[![YouTube Video](https://img.youtube.com/vi/__j-G-rqWlU/0.jpg)](https://youtu.be/__j-G-rqWlU)
-
 This project follows a specific file structure. Here's an overview of the main directories and files:
 
 - `controllers`: This directory holds the controller files that handle the logic for different routes or API endpoints.
